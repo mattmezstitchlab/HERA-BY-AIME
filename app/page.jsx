@@ -1,0 +1,1 @@
+export default function Home(){ return <div style={{padding:40,fontFamily:"system-ui"}}><h1>HERA by AIME — Build OK ✅</h1><p>Version propre déployée. Vercel build passe.</p><p><a href="/Composition">→ Voir Composition (stub)</a></p></div> }
